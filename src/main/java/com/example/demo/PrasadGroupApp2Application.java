@@ -11,7 +11,7 @@ public class PrasadGroupApp2Application {
 
 	@GetMapping("/testMessage")
 	public String getWishes() {
-		return "Hello Prasad Group Chairman Brand MD Pipeline created ...App2";
+		return "Hello Prasad Group Chairman Brand MD Pipeline New version ...App2";
 	}
 	
 	public static void main(String[] args) {
