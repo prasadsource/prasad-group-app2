@@ -15,7 +15,7 @@ public class PrasadGroupApp2Application {
 	}
 	
 	public static void main(String[] args) {
-		SpringApplication.run(PrasadGroupApp2Application.class, args);
+		SpringApplication.run(PrasadGroupApp2Application1.class, args);
 	}
 
 }
